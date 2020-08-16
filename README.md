@@ -18,11 +18,17 @@ set 7 3 - заменяет значение седьмого элемента с
 Sample Input 1:
 
 create 30
+
 add 12
+
 add 17
+
 add 3 15
+
 remove 4
+
 set 12 34
+
 printList
 
 Sample Output 1:
@@ -32,20 +38,35 @@ Sample Output 1:
 Sample Input 2:
 
 create 60
+
 add 12
+
 add 13
+
 add 14
+
 add 15
+
 add 1 16
+
 add 2 17
+
 add 3 18
+
 add 4 19
+
 add 5 20
+
 remove 60
+
 remove 50
+
 remove 40
+
 set 17 30
+
 set 18 19
+
 printList
 
 Sample Output 2:
@@ -55,10 +76,15 @@ Sample Output 2:
 Sample Input 3:
 
 create 10
+
 add 11
+
 add 13
+
 add 17
+
 add 19
+
 printList
 
 Sample Output 3:
